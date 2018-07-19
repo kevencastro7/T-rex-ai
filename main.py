@@ -1,5 +1,5 @@
-__author__ = "Shivam Shekhar"
-
+#Original = https://github.com/shivamshekhar/Chrome-T-Rex-Rush
+#tweaked by Keven Castro
 import os
 import sys
 import pygame
